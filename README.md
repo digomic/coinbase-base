@@ -34,3 +34,14 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ![Captura de pantalla 2022-02-14 225929](https://user-images.githubusercontent.com/38227130/153995732-80fd88e0-d354-4e3e-86c1-d3cec8b8cbeb.png)
+
+
+Tech Stack
+
+    Next.js
+    Sanity.io
+    thirdweb
+    styled-components
+    
+What is Coinbase Blockchange?
+It is a Crypto Transaction web app similar to Coinbase made using Blockchain & Web3 tech stack!
